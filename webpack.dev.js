@@ -18,7 +18,7 @@ const devConfig = {
       name: 'mfe',
       filename: 'remoteEntry.js',
       exposes: {
-        "./mfeApp.js": "./src/bootstrap.js"
+        "./mfeApp": "./src/bootstrap.js"
       },
       shared: deps,
     }),
