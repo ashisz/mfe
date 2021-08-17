@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmfe=self.webpackChunkmfe||[]).push([[128],{128:(e,n,t)=>{t.r(n),t.d(n,{mount:()=>i});var r=t(407),u=t.n(r),c=t(579),l=t.n(c);const s=function(){return u().createElement("div",null,"This is Hi v1.0.0")};var i=function(e){l().render(u().createElement(s,null),e)}}}]);
